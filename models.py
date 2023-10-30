@@ -1,6 +1,6 @@
 from django.db import models
 
-# Create your models here.
+# Create your models here. check here
 
 class Departments(models.Model):
     DepartmentId = models.AutoField(primary_key=True)

@@ -1,4 +1,4 @@
-# DjangoAPI_postgres_project by anjali
+# DjangoAPI_postgres_project by anjali verma
 
 Employee_table ,
 Department table,
